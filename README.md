@@ -1,4 +1,6 @@
 # Meeting Minutes
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmeetings.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmeetings?ref=badge_shield)
+
 This repository stores meeting minutes for the SPDX project.
 
 # Meeting Schedule
@@ -109,3 +111,7 @@ The following groups have paused their regular meetings.
 <!-- * Time and cadence: Our next meeting will be Monday, Feb. 10 at 13:00 -->
 <!-- * Where: https://zoom.us/j/87627432628 -->
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmeetings.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmeetings?ref=badge_large)
